@@ -1,5 +1,5 @@
 FROM fedora:latest
-RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget fontconfig && \
+RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget fontconfig vim ghostscript which && \
     cd /usr/local/src && \
     curl -sL http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz | tar zxf - && \
     mv install-tl-20* install-tl && \
