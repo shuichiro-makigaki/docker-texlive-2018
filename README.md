@@ -1,6 +1,6 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/makisyu/texlive-2018.svg)](https://hub.docker.com/r/makisyu/texlive-2018/) [![Docker Build Status](https://img.shields.io/docker/build/makisyu/texlive-2018.svg)](https://hub.docker.com/r/makisyu/texlive-2018/)
 
-**TeX Live 2018 has been frozen since April 2019** *No more updates for it forever.*
+**TeX Live 2018 has been frozen since April 2019.** *No more updates for it forever.*
 
 Thank you and good bye, TeX Live 2018!
 
